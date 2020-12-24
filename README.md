@@ -470,177 +470,177 @@ HTML(df.to_html(escape=False, formatters=dict(ImageUrl=url_to_image_html)))
   <tbody>
     <tr>
       <th>0</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200e3b9fc503149b6189c333d17589875bd.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>1</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200c8ca84d645aeb33e142fd171356e63da.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>2</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_20020075fec862ffbd1bcc2a8742095998179d.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>3</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_20020030bd506c568d0c4471041fd4c80df646.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>4</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200a88db05c429ee89418511205b04aa82c.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>5</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_2002008190f211226874d1d36c5d3cdc7a5a26.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>6</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200357256d6ddc52758f5bad22f54aa6e10.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>7</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_2002009dd6d204f7ab19bc5942932f44bfa82b.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>8</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_2002008caa2462cedc697956503f5f4fd7d1ce.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>9</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_20020096f80d4aa3354841ec091b5440929179.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>10</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200432ce93dfa51b4e60173fb51e7a4638c.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>11</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200fdff7d23514ad03dfb81d063da919a1a.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>12</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200ec4b14223b0c015bcb1df11ec847917c.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>13</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200dcf63d90e43598627e840b0166ac7078.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>14</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200bbb0439666e2a031fb10268753b9b1cb.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>15</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_2002009e4f77d46dfd9b72a4a51736487e44fe.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>16</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200378eba03585768cb1f99318a34282f21.jpg' width='120'/></td>
+      <td><img src='hhttps://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>17</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200caf8f43bf30ed6835fa93c68456d7079.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>18</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200f02ade0f66c150a6cf2286baf93ac467.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>19</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_20020082898d2a5d0ee3ba936961357e821df8.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>20</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200285f98a9274259627ca49d48883203ab.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>21</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_2002008a978cb6627f9c8984ac2f7841c745ab.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>22</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_2002005d8232c60d3a7e264bbd827f792e34fd.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>23</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_20020076db7dff5fd94253381dd7790404ce10.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>24</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200059580ece968f92722cca80e42556877.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>25</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_20020042ad2b1154935aee73393834435f1bfb.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>26</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_20020038ea14cc152a9a01516e545c2fb127a2.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>27</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_2002002e10deb3f63f26d00277365153096072.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>28</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200247c9899e6517db7bcc0fc69ee256bd7.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>29</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_20020075d4f16429aece63baac8ce5b2da16c0.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>30</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200c0058dff59adc84ea5417af1a52811d1.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>31</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_2002006b66602ae4d3187464e7ea277b18d3f6.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>32</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200f1575815e488b0410ac4ba5b405fb986.jpg' width='120'/></td>
+      <td><img src='hhttps://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>33</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200e23a8373ea7c2be7ec6ad00ca19995b4.jpg' width='120'/></td>
+      <td><img src='https://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
     <tr>
       <th>34</th>
-      <td><img src='https://catalogo.museivaticani.va//_lib/tmp/sc_imgmaster_200200764d271ad2bd87eb0dc44d7524961adc.jpg' width='120'/></td>
+      <td><img src='hhttps://dummyimage.com/600x400/000/fff' width='120'/></td>
       <td>https://catalogo.museivaticani.va/opere/</td>
     </tr>
   </tbody>
